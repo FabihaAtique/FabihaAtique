@@ -1,3 +1,4 @@
+![logo](https://github.com/FabihaAtique/FabihaAtique/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Fabiha Atique</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 <img align="right "  src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" alt="coding" width="400px">
