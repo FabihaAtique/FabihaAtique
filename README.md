@@ -4,11 +4,11 @@
 
 I design, migrate and secure AWS environments. Since 2024 I've worked remotely with international clients at [Atomic Computing](https://www.linkedin.com/company/atomic-computing/), an AWS Advanced Tier Services Partner: multi-account landing zones, 15+ customer migrations, Well-Architected reviews, security hardening and FinOps across 20+ AWS accounts.
 
-- 🏗️ **Focus:** AWS landing zones · cloud security · migrations · cost optimisation
-- 🌱 **Learning in public:** Linux operations, networking, Terraform, CI/CD and Kubernetes ([roadmap below](#-building-in-public-octdec-2026))
-- 🎓 MS Computer Science (in progress) at FAST-NUCES
-- 🎤 Spoke at PROCOM '26 (FAST-NUCES) about life as a Cloud Engineer
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/fabiha--atique)
+- **Focus:** AWS landing zones · cloud security · migrations · cost optimisation
+- **Learning in public:** Linux operations, networking, Terraform, CI/CD and Kubernetes ([roadmap below](#-building-in-public-octdec-2026))
+- MS Computer Science (in progress) at FAST-NUCES
+- Spoke at PROCOM '26 (FAST-NUCES) about life as a Cloud Engineer
+- Reach me on [LinkedIn](https://www.linkedin.com/in/fabiha--atique)
 
 ## 🏅 Certifications
 
